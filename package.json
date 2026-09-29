@@ -1,0 +1,11 @@
+{
+  "name": "tripotic-backend",
+  "version": "1.0.0",
+  "description": "AI-powered career readiness engine backend microservice",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^7.0.0",
+    "openai": "^4.0.0"
+  }
+}
